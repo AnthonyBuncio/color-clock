@@ -18,6 +18,8 @@ Digital clock that changes color as each second passes by. Uses asynchronous fun
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/150728942@N02/34686570346/in/dateposted-public/" title="Screen Shot 2017-05-17 at 9.19.59 PM"><img src="https://c1.staticflickr.com/5/4168/34686570346_b92854de02_c.jpg" width="800" height="439" alt="Screen Shot 2017-05-17 at 9.19.59 PM"></a>
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/150728942@N02/33921297153/in/dateposted-public/" title="Screen Shot 2017-05-18 at 2.52.35 AM"><img src="https://c1.staticflickr.com/5/4158/33921297153_4319e25a36_c.jpg" width="800" height="439" alt="Screen Shot 2017-05-18 at 2.52.35 AM"></a>
+
 <h2>Frameworks && Libraries</h2>
 <ul>
 <li>HTML/CSS</li>
