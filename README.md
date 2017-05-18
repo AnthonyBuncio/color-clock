@@ -1,4 +1,4 @@
-<h1>colorClock</h1>
+<h1>ColorClock</h1>
 
 [![npm status](https://img.shields.io/npm/v/npm.svg)](https://img.shields.io/npm/v/npm.svg)
 [![github release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://img.shields.io/github/release/qubyte/rubidium.svg)
