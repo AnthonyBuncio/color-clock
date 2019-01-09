@@ -1,4 +1,4 @@
-<h1>ColorClock</h1>
+<h1>#color-clock</h1>
 
 [![npm status](https://img.shields.io/npm/v/npm.svg)](https://img.shields.io/npm/v/npm.svg)
 [![github release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://img.shields.io/github/release/qubyte/rubidium.svg)
@@ -29,8 +29,8 @@ Digital clock that changes color as each second passes by. Uses asynchronous fun
 <h2>Install && Development</h2>
 
 ```
-$ git clone https://github.com/AnthonyBuncio/colorClock.git
-$ cd colorClock
+$ git clone https://github.com/AnthonyBuncio/color-clock.git
+$ cd color-clock
 $ node server.js
 ```
 
